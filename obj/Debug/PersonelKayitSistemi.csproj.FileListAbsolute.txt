@@ -1,0 +1,10 @@
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.exe.config
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.exe
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.pdb
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csprojAssemblyReference.cache
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.Form1.resources
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.Properties.Resources.resources
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.GenerateResource.cache
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.exe
+C:\Users\İSMET KARA\Source\Repos\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.pdb
